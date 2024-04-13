@@ -4,7 +4,6 @@
 
 💻 Sou um estudante de Bacharel em Tecnologia da Informação da UFRN buscando se tornar um desenvolvedor
 
-👩‍💻 Atualmente eu trabalho como Administrador de paineis Microsoft - Suporte técnico
 
 ### Eu já trabalhei com... 🔧
 
