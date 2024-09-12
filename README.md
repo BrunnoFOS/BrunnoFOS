@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-💻 Sou um estudante de Bacharel em Tecnologia da Informação da UFRN buscando se tornar um desenvolvedor
+💻 Desenvolvedor Back-end e estudante de Tecnologia da Informação na UFRN
 
 
 ### Eu já trabalhei com... 🔧
