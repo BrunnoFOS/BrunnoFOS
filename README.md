@@ -18,10 +18,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-### GitHub's Stats
-<a href="https://github.com/BrunnoFOS/)">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunnoFOS&layout=compact&langs_count=7&theme=dracula"/>
-
 ### Entre em contato comigo! 📭
 <div>
 <a href="https://www.instagram.com/oliv.brunno/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
